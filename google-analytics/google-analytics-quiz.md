@@ -401,3 +401,30 @@
 - [ ] urchin.js
 - [ ] gaq.push and ga.js
 - [ ] analytics.js
+
+#### Q66. If you created a calculated metric that returns a value "80" with Time as the formating type, how would it be represented in Google Analytics?
+- [ ] 0.01.20
+- [ ] 80
+- [ ] 80:00:00
+- [ ] 1:20:00
+
+#### Q67. You operate a website that has a tree-step sign-up process. However, each step of the sign-up process loads at the same URL. If you wanted to assign a unique URL to each step and track it within Google Analytics as a pageview, what would you do?
+- [ ] Use the preview tag
+- [ ] Use the virtual pageviews
+- [ ] Use event tracking
+- [ ] Configure a campaign URL
+
+#### Q68. If you want to track one destination goal but have two URLs that could trigger the goal (for example, /than-you and /checkout-complete), what approch can you use?
+- [ ] This is not possible
+- [ ] Add the additional page as funnel step
+- [ ] Use a regular expression when adding the goal destination 
+- [ ] Create a cotent grouping, and then use the group as the destination
+
+#### Q69. What is the report example of?
+
+<img width="943" alt="Screen Shot 2021-05-18 at 9 21 54 PM" src="https://user-images.githubusercontent.com/27597591/118752924-2d65a600-b821-11eb-93f5-1547a3efd0bf.png">
+
+- [ ] Funnel visualization
+- [ ] Treemaps
+- [ ] User flow
+- [ ] Cohort analysis
